@@ -32,7 +32,7 @@
 
 ## <img src="./UI/vision.png">
 
-### 3. Recent News
+### 3. Recesnt New
 
 - A section for showcasing the latest updates with two well-designed cards:
   - **Card 1**: Displays an image on the left and content on the right.

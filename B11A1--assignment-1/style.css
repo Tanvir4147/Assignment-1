@@ -119,6 +119,11 @@ background-color: rgb(237, 212, 179);
     background-color:rgb(41, 117, 155) ;
     margin-top: 20px;
 }
+.btn-1:hover{
+    font-size: 24px;
+    cursor: pointer;
+    background-color: rgb(132, 23, 9);
+}
 .btn-2{
     font-size: 20px;
     padding: 10px 25px;
@@ -127,6 +132,11 @@ background-color: rgb(237, 212, 179);
     border-radius: 0.5rem;
     background-color: rgb(108, 213, 169);
     margin-top: 40px;
+}
+.btn-2:hover{
+    font-size: 24px;
+    cursor: pointer;
+    background-color: rgb(20, 107, 109);
 }
 .btn-3{
     font-size: 20px;
@@ -137,4 +147,68 @@ background-color: rgb(237, 212, 179);
     background-color: rgb(244, 219, 135);
     margin-top: 20px;
 }
+.btn-3:hover{
+    font-size: 24px;
+    cursor: pointer;
+    background-color: rgb(195, 24, 121);
+}
+/* Recent News */
+.All-News{
+    width:1280px ;
+    margin: 0px auto;
+}
+.All-News h1{
+    font-size: 34px;
+    margin: 20px 0px ;
+}
+.parragep{
+    display: block;
+}
+.satelite-img{
+    border-radius: 14px;
+}
 
+.container-1 {
+      margin: 30px 0px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     gap: 25px;
+     padding: 30px;
+     background-color: rgb(236, 241, 245);
+     border-radius: 14px;
+     
+
+}
+.Newsfit{
+    font-size: 34px;
+    margin: 15px 0px;
+}
+.Date{
+    margin: 10px 0px;
+}
+.Artical{
+    margin: 10px 0px;
+}
+.read-more{
+    padding: 10px 25px;
+    color: aliceblue;
+    font-weight: 600;
+    background-color: rgb(37, 100, 44);
+    border: none;
+    border-radius: 5px;
+}
+.read-more:hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
+.container-2{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    background-color: rgb(212, 216, 221);
+    border-radius: 14px;
+}
