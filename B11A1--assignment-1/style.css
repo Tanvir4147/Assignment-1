@@ -212,3 +212,85 @@ background-color: rgb(237, 212, 179);
     background-color: rgb(212, 216, 221);
     border-radius: 14px;
 }
+/* Donate Today */
+.Donate-Today{
+    width: 1280px;
+    text-align: center;
+    margin: 0px auto;
+}
+.main-Allbox{
+    width: 1280px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     margin: 30px 0px; 
+}
+.mani-box1 {
+    font-weight: 900;
+   font-size: 45px;
+   color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:252px ;
+    height: 128px;
+    border-radius: 10px;
+    
+    background-color: rgb(223, 232, 240);
+}
+.mani-box2{
+    font-weight: 900;
+    font-size: 45px;
+    color: rgb(10, 10, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:252px ;
+    height: 128px;
+    border-radius: 10px;
+    background-color: rgb(196, 232, 220);
+    
+}
+.mani-box3{
+    font-weight: 900;
+    font-size: 45px;
+    color: rgb(9, 9, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:252px ;
+    height: 128px;
+    border-radius: 10px;
+    background-color: rgb(223, 232, 240);
+}
+.mani-box4{
+    font-weight: 900;
+    font-size: 45px;
+    color: rgb(13, 13, 13);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:252px ;
+    height: 128px;
+    background-color: rgb(223, 232, 240);
+    border-radius:10px ;
+}
+.input-box{
+    width: 1270px;
+    padding: 15px 10px ;
+    border-radius: 10px;
+    background-color: rgb(218, 233, 246);
+    border: none;
+    text-align: center;
+    font-size: 20px;
+}
+.Donate-btn{
+    margin: 20px ;
+    padding: 10px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    color: aliceblue;
+    background-color: green;
+    border-radius: 5px;
+}
